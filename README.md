@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kush Dalsaniya</h1>
 <h2 align="center">Welcome to My GitHub Profile!</h2>
-<h4 align="center">I'm thrilled to have you here. I'm a passionate Full Stack Developer with a sprinkle of Android development expertise. 🚀
+<h4 align="center">I'm thrilled to have you here. I'm a passionate Full Stack Developer with a sprinkle of Android development expertise. 🚀<br>
 My journey in tech began with a fascination for coding in C/C++ and exploring the depths of Data Structures and Algorithms (DSA).⭐️<br>
 Over time, I've honed my skills to become proficient in these areas.⏳<br> 
 I constantly seek to upgrade my skills and stay ahead in the evolving tech landscape.</h4>
