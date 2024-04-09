@@ -4,7 +4,7 @@
 My journey in tech began with a fascination for coding in C/C++ and exploring the depths of Data Structures and Algorithms (DSA).⭐️ <br>
 Over time, I've honed my skills to become proficient in these areas.⏳<br> 
 I constantly seek to upgrade my skills and stay ahead in the evolving tech landscape.</h4>
-<img align ="right" width="400px" height="400px" alt="Code" src=“https://www.google.com/imgres?q=image&imgurl=https%3A%2F%2Fbuffer.com%2Flibrary%2Fcontent%2Fimages%2Fsize%2Fw1200%2F2023%2F10%2Ffree-images.jpg&imgrefurl=https%3A%2F%2Fbuffer.com%2Flibrary%2Ffree-images%2F&docid=U9G_8UXPMlqatM&tbnid=ivTDs79HInLVcM&vet=12ahUKEwjYvt2tyrSFAxVzk68BHexQDCAQM3oECGIQAA..i&w=1200&h=800&hcb=2&ved=2ahUKEwjYvt2tyrSFAxVzk68BHexQDCAQM3oECGIQAA”>
+<img align ="right" width="400px" alt="Code" src=git_animate.gif>
 
 - 🌱 I’m currently learning **Data Structure and Algorithms , React.js**
 
